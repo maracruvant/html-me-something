@@ -1,0 +1,36 @@
+h1 {
+  margin: auto;
+  color: #cc0099;
+  background-color: #cceeff;
+  font-family: serif;
+}
+
+h3 {
+  margin: auto;
+  color: #cc0099;
+  background-color: #cceeff;
+  font-family: cursive;
+}
+
+#what {
+  margin: auto;
+  color: #red;
+  text-decoration: underline;
+  font-family: serif;
+}
+
+p {
+  color: black;
+  background-color: #b3ffd9;
+
+}
+
+.important {
+  background-color: red;
+  color: white;
+  font-family: sans-serif;
+}
+
+img {
+  border-style: dashed blue 4px;
+}
